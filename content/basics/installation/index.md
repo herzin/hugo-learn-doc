@@ -82,7 +82,7 @@ In order to generate the index of your static site launch the following comand a
 Launch the following command
 
 ```
-hugo serve
+hugo server
 ```
 
 Go to `http://localhost:1313/basics`
